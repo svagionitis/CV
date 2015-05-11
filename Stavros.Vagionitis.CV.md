@@ -16,8 +16,8 @@ __E-mail__: stavros.vagionitis@gmail.com
 
 ## Work Experience
 
-Digisoft.tv (Digital TV Industry), Embedded Software Engineer  
-Cork (Ireland), Dec 2011 – Present
+__Digisoft.tv (Digital TV Industry), Embedded Software Engineer__  
+_Cork (Ireland), Dec 2011 – Present_
 
 -   Working closely with other Software team members and the QA team to understand and clarify functional and system requirements in an Agile/Scrum environment.
 -   Collaborating with the other Software team members to ensure architectural integrity and product quality.
@@ -26,16 +26,16 @@ Cork (Ireland), Dec 2011 – Present
 -   Maintaining Gstreamer multimedia framework to embedded system.
 -   Use Yocto Project to create custom Linux-based systems for the embedded products.
 
-Intralot S.A. (Lottery & Gaming Industry), Software Engineer  
-Athens (Greece), Aug 2007 – Aug 2009
+__Intralot S.A. (Lottery & Gaming Industry), Software Engineer__  
+_Athens (Greece), Aug 2007 – Aug 2009_
 
 -   Software Engineer in Application Development Department.
 -   Member of a group of the project manager and ten software engineers.
 -   Programmed, debugged, modified and maintained segments of large-scale software projects worldwide using AIX as an Operating System.
 -   Used C as the main programming language to construct and update server side, performance critical, software for sports betting and lottery games.
 
-DEMCO Group (Investment Management), System & Database Administrator   
-Athens (Greece), Nov 2005 – Aug 2007
+__DEMCO Group (Investment Management), System & Database Administrator__   
+_Athens (Greece), Nov 2005 – Aug 2007_
 
 -   System and Database Administrator in IT Department.
 -   Member of a group of the technical supervisor and one more administrator.
@@ -46,14 +46,14 @@ Athens (Greece), Nov 2005 – Aug 2007
 
 ## Education
 
-University of Edinburgh, School of Informatics   
-Edinburgh (Scotland), Sep 2009 – Sep 2010
+__University of Edinburgh, School of Informatics__   
+_Edinburgh (Scotland), Sep 2009 – Sep 2010_
 
 -   MSc in Computer Science specialized in Software Engineering and Computer Systems.
 -   Used C, Java and Matlab in course projects.
 
-Technical University of Crete, Electronic and Computer Engineering   
-Chania (Greece), Sep 1997 – Jun 2004
+__Technical University of Crete, Electronic and Computer Engineering__   
+_Chania (Greece), Sep 1997 – Jun 2004_
 
 -   Bachelor(Ptychion) in Electronic and Computer Engineering specialized in Digital Image & Video Processing.
 -   Used C, C++, SQL and Matlab in course projects.
@@ -82,8 +82,8 @@ Greek(native), English(fluent), French(novice).
 
 ## Military Service
 
-Research & Informatics Corps, System Administrator & Developer   
-Athens / Komotini (Greece), Feb 2004 – Aug 2005
+__Research & Informatics Corps, System Administrator & Developer__   
+_Athens / Komotini (Greece), Feb 2004 – Aug 2005_
 
 -   Served as Reserve Officer on Probation in Hellenic Army. In July 2005 promoted to the rank of Reserve Second Lieutenant. In August 2013 promoted to the rank of Reserve Lieutenant.
 -   Monitored, as System Administrator, the network infrastructure of the entire camp and diagnosed problems with the behaviour of networked-attached computers.
