@@ -16,6 +16,17 @@ __E-mail__: stavros.vagionitis@gmail.com
 
 ## Work Experience
 
+__Johnson Controls (Building Security & Automation Industry), Senior Embedded Software Engineer__
+_Cork (Ireland), Oct 2015 – Present_
+
+-   Installing, maintaining and modifying the source code of Libelium IoT gateways inside and outside of the building.
+-   Use of a Compulab IoT gateway in ARM architecture as the main development environment.
+-   Helping in extending the functionality of the home automation Openhab framework to HVAC systems in buildings using BACnet protocol.
+-   Use Yocto Project to create custom Linux-based systems for the embedded products.
+-   Working closely with other Software team members and the QA team to understand and clarify functional and system requirements in an Agile/Scrum environment.
+-   Collaborating with the other Software team members to ensure architectural integrity and product quality.
+-   Support of REV1 gateway.
+
 __Digisoft.tv (Digital TV Industry), Embedded Software Engineer__
 _Cork (Ireland), Dec 2011 – Oct 2015_
 
