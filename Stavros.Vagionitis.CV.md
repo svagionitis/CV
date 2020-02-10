@@ -16,15 +16,15 @@ __E-mail__: stavros.vagionitis@gmail.com
 
 ## Work Experience
 
-__Digisoft.tv (Digital TV Industry), Embedded Software Engineer__  
-_Cork (Ireland), Dec 2011 – Present_
+__Digisoft.tv (Digital TV Industry), Embedded Software Engineer__
+_Cork (Ireland), Dec 2011 – Oct 2015_
 
+-   Cross-compilation, debugging and analysing C/C++ code for a Set-Top Box (STB) in MIPS architecture for Sigma Designs chipsets. Performance improvements in code base. Participating in peer code reviews. Repair defects found in developed modules.
+-   Helping in the port and maintainance of the WebKit web browser engine to the embedded system.
+-   Helping in the maintainance of Gstreamer multimedia framework to embedded system.
+-   Use Yocto Project to create custom Linux-based systems for the embedded products.
 -   Working closely with other Software team members and the QA team to understand and clarify functional and system requirements in an Agile/Scrum environment.
 -   Collaborating with the other Software team members to ensure architectural integrity and product quality.
--   Cross-compilation, debugging and analysing C/C++ code for a Set-Top Box(STB) in MIPS architecture for Sigma Designs chipsets. Performance improvements in code base. Participating in peer code reviews. Repair defects found in developed modules.
--   Porting and maintaining the WebKit web browser engine to the embedded system.
--   Maintaining Gstreamer multimedia framework to embedded system.
--   Use Yocto Project to create custom Linux-based systems for the embedded products.
 
 __Intralot S.A. (Lottery & Gaming Industry), Software Engineer__  
 _Athens (Greece), Aug 2007 – Aug 2009_
