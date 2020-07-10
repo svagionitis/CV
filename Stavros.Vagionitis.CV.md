@@ -16,18 +16,19 @@ __E-mail__: stavros.vagionitis@gmail.com
 
 ## Work Experience
 
-__Johnson Controls (Building Security & Automation Industry), Senior Embedded Software Engineer__
+__Johnson Controls (Building Security & Automation Industry), Senior Embedded Software Engineer__   
 _Cork (Ireland), Oct 2015 – Jun 2020_
 
--   Installing, maintaining and modifying the source code of Libelium IoT gateways which located inside and outside of the building.
--   Maintaining the code base of the Rev. 1 IoT gateway.
--   Use of a Compulab IoT gateway in ARM architecture as the main development environment and the Rev. 2 IoT gateway.
--   Use Yocto Project to create custom Linux-based systems for the Rev. 2 IoT gateway.
+-   Helping in creating and maintaining a C library API to be used for communication of the firepanel with the platform agnostic cloud infrastructure via a firepanel gateway. Modified to run on both Linux and Windows.
+-   Maintaining the code base of the Rev. 1 firepanel gateway.
+-   Use of a Compulab IoT gateway in ARM architecture as the main development environment and the Rev. 2 firepanel gateway.
+-   Use Yocto Project to create custom Linux-based systems for the Rev. 2 firepanel gateway.
+-   Tier 2 helpdesk support of Rev. 1 firepanel gateway. Helping Tier 1 helpdesk support for solving more complex issues and providing any workarounds if available.
 -   Extending the functionality of the home automation openHAB framework to HVAC systems in buildings using BACnet protocol.
--   Tier 2 helpdesk support of Rev. 1 IoT gateway. Helping Tier 1 helpdesk support for solving more complex issues and providing any workarounds if available.
+-   Installing, maintaining and modifying the source code of Libelium IoT gateways which located inside and outside of the building.
 -   Mentoring the new hires of the team.
 
-__Digisoft.tv (Digital TV Industry), Embedded Software Engineer__
+__Digisoft.tv (Digital TV Industry), Embedded Software Engineer__   
 _Cork (Ireland), Dec 2011 – Oct 2015_
 
 -   Cross-compilation, debugging and analysing C/C++ code for a Set-Top Box (STB) in MIPS architecture for Sigma Designs chipsets. Performance improvements in code base. Participating in peer code reviews. Repair defects found in developed modules.
@@ -37,7 +38,7 @@ _Cork (Ireland), Dec 2011 – Oct 2015_
 -   Working closely with other Software team members and the QA team to understand and clarify functional and system requirements in an Agile/Scrum environment.
 -   Collaborating with the other Software team members to ensure architectural integrity and product quality.
 
-__Intralot S.A. (Lottery & Gaming Industry), Software Engineer__  
+__Intralot S.A. (Lottery & Gaming Industry), Software Engineer__   
 _Athens (Greece), Aug 2007 – Aug 2009_
 
 -   Software Engineer in Application Development Department.
