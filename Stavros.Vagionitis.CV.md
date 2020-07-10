@@ -20,9 +20,9 @@ __Johnson Controls (Building Security & Automation Industry), Senior Embedded So
 _Cork (Ireland), Oct 2015 – Jun 2020_
 
 -   Helping in creating and maintaining a C library API to be used for communication of the firepanel with the platform agnostic cloud infrastructure via a firepanel gateway. Modified to run on both Linux and Windows.
--   Maintaining the code base of the Rev. 1 firepanel gateway.
--   Use of a Compulab IoT gateway in ARM architecture as the main development environment and the Rev. 2 firepanel gateway.
--   Use Yocto Project to create custom Linux-based systems for the Rev. 2 firepanel gateway.
+-   Maintaining the code base of the Rev. 1 firepanel gateway which was in production. Performance improvements in code base. Participating in peer code reviews. Repair defects found in developed modules.
+-   Use of a Compulab IoT gateway in ARM architecture as the main development environment. This became the Rev. 2 firepanel gateway. Code base of the Rev. 1 firepanel gateway ported on the Rev. 2.
+-   Use Yocto Project to create custom Linux-based systems for the Rev. 1 and Rev. 2 firepanel gateways.
 -   Tier 2 helpdesk support of Rev. 1 firepanel gateway. Helping Tier 1 helpdesk support for solving more complex issues and providing any workarounds if available.
 -   Extending the functionality of the home automation openHAB framework to HVAC systems in buildings using BACnet protocol.
 -   Installing, maintaining and modifying the source code of Libelium IoT gateways which located inside and outside of the building.
