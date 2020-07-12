@@ -19,37 +19,39 @@ __E-mail__: stavros.vagionitis@gmail.com
 __Johnson Controls (Building Security & Automation Industry), Senior Embedded Software Engineer__   
 _Cork (Ireland), Oct 2015 – Jun 2020_
 
--   Helping in creating and maintaining a C library API to be used for communication of the firepanel with the platform agnostic cloud infrastructure via a firepanel gateway. Modified to run on both Linux and Windows.
--   Maintaining the code base of the Rev. 1 firepanel gateway (ARM architecture) which is in production. Performance improvements in code base. Participating in peer code reviews. Repair defects found in developed modules. Use Yocto Project to create custom Linux-based systems for the Rev. 1 gateway.
--   Use of a Compulab IoT gateway (ARM architecture) as the main development environment. This became the Rev. 2 firepanel gateway. Code base of the Rev. 1 firepanel gateway ported on the Rev. 2. Use Yocto Project to create custom Linux-based systems for the Rev. 2 gateway.
+-   Member of the embedded team consisting of the manager and seven software engineers in the R&D Department.
+-   Helping in creating and maintaining a C library to be used for communication of the firepanel with the platform agnostic cloud infrastructure via a firepanel gateway. Modified to run on both Linux and Windows.
+-   Helping in maintaining the code base of the Rev. 1 firepanel gateway (ARM architecture) which is in production.
+-   Use of a Compulab IoT gateway (ARM architecture) as the main development environment. This became the Rev. 2 firepanel gateway. Helping port the code base of the Rev. 1 firepanel gateway to Rev. 2.
 -   Tier 2 helpdesk support of Rev. 1 firepanel gateway. Helping Tier 1 helpdesk support for solving more complex issues and providing any workarounds if available.
--   Extending the functionality of the home automation openHAB framework to HVAC systems in buildings using BACnet protocol. Use Yocto project to create a custom Linux-based system for the extended openHAB framework.
+-   Helping in extending the functionality of the home automation openHAB framework to HVAC systems in buildings using BACnet protocol.
 -   Installing, maintaining and modifying the source code of Libelium IoT gateways which located inside and outside of the building.
+-   Performance improvements and repair defects in the above mentioned code bases. Participating in peer code reviews.
+-   Helping in using Yocto Project to create custom Linux-based systems for the Rev. 1 gateway, Rev. 2 gateway and the extended openHAB framework.
 -   Mentoring the new hires of the team.
 
 __Digisoft.tv (Digital TV Industry), Embedded Software Engineer__   
 _Cork (Ireland), Dec 2011 – Oct 2015_
 
+-   Member of the embedded team consisting of the manager and five software engineers in the Development Department.
 -   Cross-compilation, debugging and analysing C/C++ code for a Set-Top Box (STB) in MIPS architecture for Sigma Designs chipsets. Performance improvements in code base. Participating in peer code reviews. Repair defects found in developed modules.
 -   Helping in the port and maintainance of the WebKit web browser engine to the embedded system.
--   Helping in the maintainance of Gstreamer multimedia framework to embedded system.
--   Use Yocto Project to create custom Linux-based systems for the embedded products.
+-   Helping in the maintainance of Gstreamer multimedia framework to the embedded system.
+-   Helping in using Yocto Project to create custom Linux-based systems for the embedded products.
 -   Working closely with other Software team members and the QA team to understand and clarify functional and system requirements in an Agile/Scrum environment.
 -   Collaborating with the other Software team members to ensure architectural integrity and product quality.
 
 __Intralot S.A. (Lottery & Gaming Industry), Software Engineer__   
 _Athens (Greece), Aug 2007 – Aug 2009_
 
--   Software Engineer in Application Development Department.
--   Member of a group of the project manager and ten software engineers.
+-   Member of a team consisting of the project manager and ten software engineers in the Application Development Department.
 -   Programmed, debugged, modified and maintained segments of large-scale software projects worldwide using AIX as an Operating System.
 -   Used C as the main programming language to construct and update server side, performance critical, software for sports betting and lottery games.
 
 __DEMCO Group (Investment Management), System & Database Administrator__   
 _Athens (Greece), Nov 2005 – Aug 2007_
 
--   System and Database Administrator in IT Department.
--   Member of a group of the technical supervisor and one more administrator.
+-   Member of a team consisting of the technical supervisor and one more administrator in IT Department.
 -   Maintained the network infrastructure of the company such as switches and routers and diagnosed any problems with the behaviour of the networked-attached computers.
 -   Involved in the procurement of new hardware, kept update the disk images for new computer installs, rolled out new software installs and made sure that licenses are paid for software that needed it.
 -   Ensured for the integrity of the data, the efficiency and the performance for two Oracle databases the company had.
