@@ -54,7 +54,7 @@ _Athens (Greece), Nov 2005 – Aug 2007_
 -   Involved in the procurement of new hardware, kept update the disk images for new computer installs, rolled out new software installs and made sure that licenses are paid for software that needed it.
 -   Ensured for the integrity of the data, the efficiency and the performance for two Oracle databases the company had.
 
-__Research & Informatics Corps, System Administrator & Developer__   
+__Research & Informatics Corps (Military Service), System Administrator & Developer__   
 _Athens / Komotini (Greece), Feb 2004 – Aug 2005_
 
 -   Served as Reserve Officer on Probation in Hellenic Army. In July 2005 promoted to the rank of Reserve Second Lieutenant. In August 2013 promoted to the rank of Reserve Lieutenant.
