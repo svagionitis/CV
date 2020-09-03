@@ -9,8 +9,8 @@ __E-mail__: stavros.vagionitis@gmail.com
 -   __Programming Skills__: C/C++, Java, SQL, Shell Scripting, Python.
 -   __Source Control__: Subversion, Git.
 -   __Databases__: MySQL, SQLite.
--   __Operating Systems__: MS Window Family, Linux (RedHat/Ubuntu/SL), AIX, MacOSX.
--   __Scientific Software__: Matlab.
+-   __Operating Systems__: MS Window Family, Linux (RedHat/Ubuntu), Unix (AIX, MacOSX).
+-   __Code Review Software__: Gerrit.
 -   __Issue Tracking/Collaboration Software__: Jira, Confluence, Crucible, FishEye.
 
 
