@@ -55,6 +55,15 @@ _Athens (Greece), Nov 2005 – Aug 2007_
 -   Involved in the procurement of new hardware, kept update the disk images for new computer installs, rolled out new software installs and made sure that licenses are paid for software that needed it.
 -   Ensured for the integrity of the data, the efficiency and the performance for two Oracle databases the company had.
 
+__Research & Informatics Corps, System Administrator & Developer__   
+_Athens / Komotini (Greece), Feb 2004 – Aug 2005_
+
+-   Served as Reserve Officer on Probation in Hellenic Army. In July 2005 promoted to the rank of Reserve Second Lieutenant. In August 2013 promoted to the rank of Reserve Lieutenant.
+-   Monitored, as System Administrator, the network infrastructure of the entire camp and diagnosed problems with the behaviour of networked-attached computers.
+-   Responded to individual military users'' difficulties with computer systems, provide instructions, diagnose and solve common problems. I was given the opportunity to train higher-ranked officers on software applications such as Microsoft Office.
+-   Trained, as Programmer, to ensure that military software applications were operating correctly and fix any program errors that might occur.
+-   Supervised staff of four soldiers. We worked as a team to meet the deadlines.
+
 
 ## Education
 
@@ -85,15 +94,4 @@ Greek(native), English(fluent), French(novice).
 -   __Sport__: Archery: I was in the team of A.C Phaethon Vrilission.
 -   __Prizes__: Winner of 2010 Skyscanner’s Student Brain Challenge.
 
-
-## Military Service
-
-__Research & Informatics Corps, System Administrator & Developer__   
-_Athens / Komotini (Greece), Feb 2004 – Aug 2005_
-
--   Served as Reserve Officer on Probation in Hellenic Army. In July 2005 promoted to the rank of Reserve Second Lieutenant. In August 2013 promoted to the rank of Reserve Lieutenant.
--   Monitored, as System Administrator, the network infrastructure of the entire camp and diagnosed problems with the behaviour of networked-attached computers.
--   Responded to individual military users'' difficulties with computer systems, provide instructions, diagnose and solve common problems. I was given the opportunity to train higher-ranked officers on software applications such as Microsoft Office.
--   Trained, as Programmer, to ensure that military software applications were operating correctly and fix any program errors that might occur.
--   Supervised staff of four soldiers. We worked as a team to meet the deadlines.
 
