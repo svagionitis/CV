@@ -26,8 +26,8 @@ _Cork (Ireland), Oct 2015 – Jun 2020_
 -   Use of a Compulab IoT gateway (ARM architecture) as the main development environment. This became the Rev. 2 firepanel gateway. Helping port the code base of the Rev. 1 firepanel gateway to Rev. 2.
 -   Tier 2 helpdesk support of Rev. 1 firepanel gateway. Helping Tier 1 helpdesk support for solving more complex issues and providing any workarounds if available.
 -   Helping in extending the functionality of the home automation openHAB framework to HVAC systems in buildings using BACnet protocol. Developed an extension for the REST API in order to modify Network settings, Time and specific settings for the HVAC systems.
--   Installing, maintaining and modifying the source code of Libelium IoT gateways which located inside and outside of the building.
 -   Performance improvements, repair defects and addressing technical dept in the above mentioned code bases. Participating in peer code reviews.
+-   Installing, maintaining and modifying the source code of Libelium IoT gateways which were located indoors and outdoors.
 -   Helping in using Yocto Project to create custom Linux-based systems for the Rev. 1 gateway, Rev. 2 gateway and the extended openHAB framework.
 
 __Digisoft.tv (Digital TV Industry), Embedded Software Engineer__   
