@@ -26,7 +26,7 @@ _Cork (Ireland), Oct 2015 – Jun 2020_
 -   Use of a Compulab IoT gateway (ARM architecture) as the main development environment. This became the Rev. 2 firepanel gateway. Helping port the code base of the Rev. 1 firepanel gateway to Rev. 2.
 -   Tier 2 helpdesk support of Rev. 1 firepanel gateway. Helping Tier 1 helpdesk support for solving more complex issues and providing any workarounds if available.
 -   Helping in extending the functionality of the home automation openHAB framework to HVAC systems in buildings using BACnet protocol. Developed an extension for the REST API in order to modify Network settings, Time and specific settings for the HVAC systems.
--   Performance improvements, repair defects and addressing technical dept in the above mentioned code bases. Participating in peer code reviews.
+-   Performance improvements, repair defects and addressing technical debt in the above mentioned code bases. Participating in peer code reviews.
 -   Installing, maintaining and modifying the source code of Libelium IoT gateways which were located indoors and outdoors.
 -   Helping in using Yocto Project to create custom Linux-based systems for the Rev. 1 gateway, Rev. 2 gateway and the extended openHAB framework.
 
@@ -34,12 +34,11 @@ __Digisoft.tv (Digital TV Industry), Embedded Software Engineer__
 _Cork (Ireland), Dec 2011 – Oct 2015_
 
 -   Member of the embedded team consisting of the manager and five software engineers in the Development Department.
--   Cross-compilation, debugging and analysing C/C++ code for a Set-Top Box (STB) in MIPS architecture for Sigma Designs chipsets. Performance improvements in code base. Participating in peer code reviews. Repair defects found in developed modules.
--   Helping in the port and maintainance of the WebKit web browser engine to the embedded system.
--   Helping in the maintainance of Gstreamer multimedia framework to the embedded system.
+-   Cross-compilation, debugging and analysing C/C++ code for a Set-Top Box (STB) in MIPS architecture for Sigma Designs chipsets. Performance improvements in code base. Participating in peer code reviews. Repair defects found in developed modules. Collaborating with the other Software team members to ensure architectural integrity and product quality.
+-   Helping in the port and maintenance of the WebKit web browser engine to the embedded system.
+-   Helping in the maintenance of Gstreamer multimedia framework to the embedded system.
 -   Helping in using Yocto Project to create custom Linux-based systems for the embedded products.
 -   Working closely with other Software team members and the QA team to understand and clarify functional and system requirements in an Agile/Scrum environment.
--   Collaborating with the other Software team members to ensure architectural integrity and product quality.
 
 __Intralot S.A. (Lottery & Gaming Industry), Software Engineer__   
 _Athens (Greece), Aug 2007 – Aug 2009_
