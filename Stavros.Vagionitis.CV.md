@@ -81,10 +81,8 @@ Greek(native), English(fluent), French(novice).
 
 ## Activities/Distinctions
 
--   __Music__: _Mandolin_, _Piano_: Playing mandolin and piano for mandolinata “Fraternity of Cephalonia and Ithaca of Piraeus”.
--   __Photography__: Member of Fotoskiasi, Photographic Society of Technical University of Crete; Member of the Cork Camera Group.
--   __Sport__: _Football_, _basketball_: Playing basketball to A.C. Peiraikos. Now I usually play both basketball and football with some friends; Archery: I was in the team of A.C Phaethon Vrilission.
--   __Organizations__: Member of Technical Chamber of Greece (TEE-TCG): Participated in some of its meetings regarding the digital governance in Greece.
+-   __Photography__: Member of Fotoskiasi, Photographic Society of Technical University of Crete/
+-   __Sport__: Archery: I was in the team of A.C Phaethon Vrilission.
 -   __Prizes__: Winner of 2010 Skyscanner’s Student Brain Challenge.
 
 
