@@ -63,19 +63,15 @@ _Edinburgh (Scotland), Sep 2009 – Sep 2010_
 
 -   MSc in Computer Science specialized in Software Engineering and Computer Systems.
 -   Used C, Java and Matlab in course projects.
+-   __MSc Thesis__: “Finding Clones”, School of Informatics, University of Edinburgh, 2010.
 
 __Technical University of Crete, Electronic and Computer Engineering__   
 _Chania (Greece), Sep 1997 – Jun 2004_
 
 -   Bachelor(Ptychion) in Electronic and Computer Engineering specialized in Digital Image & Video Processing.
 -   Used C, C++, SQL and Matlab in course projects.
-
-
-## Publications
-
--   __MSc Thesis__: “Finding Clones”, School of Informatics, University of Edinburgh, 2010.
--   __Papers__: “Adaptive Methods for Motion Characterization and Segmentation of MPEG Compressed Frame Sequence”, C. Doulaverakis, S. Vagionitis, M. Zervakis and E. Petrakis, Intern. Conference on Image Analysis and Recognition (ICIAR''2004), Porto, Portugal, Sept./Oct. 2004, Proc. Part I, Springer Verlag (LNCS 3211), pp. 310-317.
 -   __Diploma Thesis__: “Methods for Segmentation of Uncompressed Video Using Intensity and Motion Histograms”, Electronic and Computer Engineering Department, Technical University of Crete, 2003.
+-   __Papers__: “Adaptive Methods for Motion Characterization and Segmentation of MPEG Compressed Frame Sequence”, C. Doulaverakis, S. Vagionitis, M. Zervakis and E. Petrakis, Intern. Conference on Image Analysis and Recognition (ICIAR''2004), Porto, Portugal, Sept./Oct. 2004, Proc. Part I, Springer Verlag (LNCS 3211), pp. 310-317.
 
 
 ## Languages
