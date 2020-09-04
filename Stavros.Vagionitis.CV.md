@@ -6,8 +6,9 @@ __E-mail__: stavros.vagionitis@gmail.com
 
 ## Technical Skills
 
--   __Programming Skills__: C/C++, Java, SQL, Shell Scripting, Python.
+-   __Programming Skills__: C/C++, Java, SQL, Shell Scripting, Python, AngularJS.
 -   __Source Control__: Subversion, Git.
+-   __Databases__: SQLite, InfluxDB.
 -   __Operating Systems__: MS Window Family, Linux (RedHat/Ubuntu), Unix (AIX, MacOSX).
 -   __Code Review Software__: Gerrit, Crucible.
 -   __Issue Tracking/Collaboration Software__: Jira, Confluence, FishEye.
