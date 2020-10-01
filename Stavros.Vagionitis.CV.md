@@ -14,6 +14,24 @@ __E-mail__: stavros.vagionitis@gmail.com
 -   __Issue Tracking/Collaboration Software__: Jira, Confluence, FishEye.
 
 
+## Education
+
+__University of Edinburgh, School of Informatics__   
+_Edinburgh (Scotland), Sep 2009 – Sep 2010_
+
+-   MSc in Computer Science specialized in Software Engineering and Computer Systems.
+-   Used C, Java and Matlab in course projects.
+-   __MSc Thesis__: “Finding Clones”, School of Informatics, University of Edinburgh, 2010.
+
+__Technical University of Crete, Electronic and Computer Engineering__   
+_Chania (Greece), Sep 1997 – Jun 2004_
+
+-   Bachelor(Ptychion) in Electronic and Computer Engineering specialized in Digital Image & Video Processing.
+-   Used C, C++, SQL and Matlab in course projects.
+-   __Diploma Thesis__: “Methods for Segmentation of Uncompressed Video Using Intensity and Motion Histograms”, Electronic and Computer Engineering Department, Technical University of Crete, 2003.
+-   __Papers__: “Adaptive Methods for Motion Characterization and Segmentation of MPEG Compressed Frame Sequence”, C. Doulaverakis, S. Vagionitis, M. Zervakis and E. Petrakis, Intern. Conference on Image Analysis and Recognition (ICIAR''2004), Porto, Portugal, Sept./Oct. 2004, Proc. Part I, Springer Verlag (LNCS 3211), pp. 310-317.
+
+
 ## Work Experience
 
 __Johnson Controls (Building Security & Automation Industry), Senior Embedded Software Engineer__   
@@ -22,13 +40,10 @@ _Cork (Ireland), Oct 2015 – Jun 2020_
 -   Member of the embedded team consisting of the manager and seven software engineers in the R&D Department.
 -   Mentoring the new hires of the team.
 -   Helping in creating and maintaining a C library to be used for communication of the firepanel with the platform agnostic cloud infrastructure via a firepanel gateway. Modified to run on both Linux and Windows.
--   Helping in maintaining the code base of the Rev. 1 firepanel gateway (ARM architecture) which is in production.
 -   Use of a Compulab IoT gateway (ARM architecture) as the main development environment. This became the Rev. 2 firepanel gateway. Helping port the code base of the Rev. 1 firepanel gateway to Rev. 2.
 -   Helping in maintaining the AngularJS frontend of the Rev. 2 firepanel gateway.
--   Tier 2 helpdesk support of Rev. 1 firepanel gateway. Helping Tier 1 helpdesk support for solving more complex issues and providing any workarounds if available.
 -   Helping in extending the functionality of the home automation openHAB framework to HVAC systems in buildings using BACnet protocol. Developed an extension for the REST API in order to modify Network settings, Time and specific settings for the HVAC systems.
 -   Performance improvements, repair defects and addressing technical debt in the above mentioned code bases. Participating in peer code reviews.
--   Installing, maintaining and modifying the source code of Libelium IoT gateways which were located indoors and outdoors. Setup an InfluxDB to present the data from the sensors.
 -   Helping in using Yocto Project to create custom Linux-based systems for the Rev. 1 gateway, Rev. 2 gateway and the extended openHAB framework.
 
 __Digisoft.tv (Digital TV Industry), Embedded Software Engineer__   
@@ -64,24 +79,6 @@ _Athens / Komotini (Greece), Feb 2004 – Aug 2005_
 -   Responded to individual military users'' difficulties with computer systems, provide instructions, diagnose and solve common problems. I was given the opportunity to train higher-ranked officers on software applications such as Microsoft Office.
 -   Trained, as Programmer, to ensure that military software applications were operating correctly and fix any program errors that might occur.
 -   Supervised staff of four soldiers. We worked as a team to meet the deadlines.
-
-
-## Education
-
-__University of Edinburgh, School of Informatics__   
-_Edinburgh (Scotland), Sep 2009 – Sep 2010_
-
--   MSc in Computer Science specialized in Software Engineering and Computer Systems.
--   Used C, Java and Matlab in course projects.
--   __MSc Thesis__: “Finding Clones”, School of Informatics, University of Edinburgh, 2010.
-
-__Technical University of Crete, Electronic and Computer Engineering__   
-_Chania (Greece), Sep 1997 – Jun 2004_
-
--   Bachelor(Ptychion) in Electronic and Computer Engineering specialized in Digital Image & Video Processing.
--   Used C, C++, SQL and Matlab in course projects.
--   __Diploma Thesis__: “Methods for Segmentation of Uncompressed Video Using Intensity and Motion Histograms”, Electronic and Computer Engineering Department, Technical University of Crete, 2003.
--   __Papers__: “Adaptive Methods for Motion Characterization and Segmentation of MPEG Compressed Frame Sequence”, C. Doulaverakis, S. Vagionitis, M. Zervakis and E. Petrakis, Intern. Conference on Image Analysis and Recognition (ICIAR''2004), Porto, Portugal, Sept./Oct. 2004, Proc. Part I, Springer Verlag (LNCS 3211), pp. 310-317.
 
 
 ## Languages
