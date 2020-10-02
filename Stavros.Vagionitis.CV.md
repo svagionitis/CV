@@ -21,7 +21,7 @@ _Cork (Ireland), Oct 2015 – Jun 2020_
 
 -   Member of the embedded team consisting of the manager and seven software engineers in the R&D Department.
 -   Mentoring the new hires of the team.
--   Helping in creating and maintaining a C library to be used for communication of the firepanel with the platform agnostic cloud infrastructure via a firepanel gateway. Modified to run on both Linux and Windows.
+-   Helping in creating and maintaining a C library to be used for communication of the firepanel with the platform agnostic cloud infrastructure via a firepanel gateway using MQTT. Modified to run on both Linux and Windows.
 -   Helping in maintaining the code base of the Rev. 1 firepanel gateway (ARM architecture) which is in production.
 -   Use of a Compulab IoT gateway (ARM architecture) as the main development environment. This became the Rev. 2 firepanel gateway. Helping port the code base of the Rev. 1 firepanel gateway to Rev. 2.
 -   Helping in maintaining the AngularJS frontend of the Rev. 2 firepanel gateway.
