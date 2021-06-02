@@ -1,6 +1,6 @@
 # Stavros Vagionitis
 
-__Address__: Argyrokastrou 54, 71307, Heraklion, Crete, Greece __Mobile__: +30 6945 310 437   
+__Address__: Kon/nou Stefa 3, 15126, Athens, Greece __Mobile__: +30 6945 310 437   
 __E-mail__: stavros.vagionitis@gmail.com
 
 
