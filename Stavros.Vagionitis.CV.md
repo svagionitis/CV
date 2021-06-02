@@ -16,6 +16,11 @@ __E-mail__: stavros.vagionitis@gmail.com
 
 ## Work Experience
 
+__Miltech (Defence Industry), Senior Software Engineer__   
+_Athens (Greece), Mar 2021 – Present_
+
+-   Member of the embedded team consisting of the manager and seven software engineers in the R&D Department.
+
 __Johnson Controls (Building Security & Automation Industry), Senior Embedded Software Engineer__   
 _Cork (Ireland), Oct 2015 – Jun 2020_
 
